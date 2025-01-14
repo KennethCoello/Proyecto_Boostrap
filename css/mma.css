@@ -1,0 +1,31 @@
+.logo{
+    width: 40%;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+/*Imagen de las maquinas nuevas*/
+.maquinue{
+     width: 60%;
+}
+
+/*Imagen para actividades principiantes*/
+
+.principiantes{
+    width: 60%;
+    height: 73%;
+}
+
+.bg-car1{
+    background-image: url(../img/kcrmma.png);
+    background-position: center center;
+    background-size: contain;
+}
+
+.bg-car2{
+    background-image: url(../img/kcrmma.png);
+    background-position: center center;
+    background-size: contain;
+}
