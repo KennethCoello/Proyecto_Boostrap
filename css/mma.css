@@ -2,20 +2,8 @@
     width: 40%;
 }
 
-body {
+body{
     overflow-x: hidden;
-}
-
-/*Imagen de las maquinas nuevas*/
-.maquinue{
-     width: 60%;
-}
-
-/*Imagen para actividades principiantes*/
-
-.principiantes{
-    width: 60%;
-    height: 73%;
 }
 
 .bg-car1{
@@ -32,6 +20,31 @@ body {
     background-color: black;
 
 }
+
+.bg-car3{
+    background-image: url(../img/ufc.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: black;
+}
+
+.bg-car4{
+    background-image: url(../img/pridex.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: black;
+}
+
+.bg-car5{
+    background-image: url(../img/bellator.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: black;
+}
+
 
 .text-custom{
     color: rgb(209, 28, 28);
