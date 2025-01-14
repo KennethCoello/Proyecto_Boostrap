@@ -22,10 +22,18 @@ body {
     background-image: url(../img/kcrmma.png);
     background-position: center center;
     background-size: contain;
+    background-color: black;
 }
 
 .bg-car2{
     background-image: url(../img/kcrmma.png);
     background-position: center center;
     background-size: contain;
+    background-color: black;
+
+}
+
+.text-custom{
+    color: rgb(209, 28, 28);
+    font-weight: bold;
 }
