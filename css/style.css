@@ -11,6 +11,7 @@ body{
     background-image: url(../img/nuevas_maquinas.png);
     background-position: center center;
     background-size: contain;
+    background-color: black;
 }
 
 .bg-car2{
